@@ -3,19 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aula;
+package PacoteCachorro;
 
 /**
  *
  * @author ice
  */
-public class Aula {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        Cachorro cdn = new Cachorro();
-    }
+public class Gato {
+    String raça;
     
+    public Gato(){
+        raça = "srd";
+    }
 }
